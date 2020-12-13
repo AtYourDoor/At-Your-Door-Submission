@@ -1,5 +1,7 @@
 # GOAL-DIGGERS TEAM SUBMISSION
 
+![picture alt](https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png/200x150 'At-Your-Door')
+
 ## Product Name - At Your Door :zap:
 
 ## :exclamation: Important Instructions for Judges Before Checking App :exclamation:
