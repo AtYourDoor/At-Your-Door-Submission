@@ -1,10 +1,12 @@
 # GOAL-DIGGERS TEAM SUBMISSION
 
-<img src="https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png" width="150" height="150">
 
 ## Product Name - At Your Door :zap:
 
 ## :exclamation: Important Instructions for Judges Before Checking App :exclamation:
+
+**_ Apk Link _** : <https://bit.ly/at-your-door-app>
 
 - We are providing android apk, you need to install our app on your local device and check our project.
 
