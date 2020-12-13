@@ -2,7 +2,7 @@
 
 ## Product Name - At Your Door
 
-## Important Instructions for Judges Before Checking App
+## :exclamation: Important Instructions for Judges Before Checking App :exclamation:
 
 - We will provide apk, you need to install our app on your local device and check our project.
 
