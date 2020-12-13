@@ -1,4 +1,6 @@
-# At-Your-Door-Submission
+# GOAL-DIGGERS TEAM SUBMISSION
+
+## Product Name - At Your Door
 
 ## Important Instructions for Judges Before Checking App
 
