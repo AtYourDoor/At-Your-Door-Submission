@@ -18,6 +18,6 @@
 
 ### Apk Link : <https://bit.ly/at-your-door-app>
 
-### APP REPOSITORY: <https://github.com/AtYourDoor/AtYourDoorUserApp>
+### App Repository: <https://github.com/AtYourDoor/AtYourDoorUserApp>
 
-### BACKEND REPOSITORY: <https://github.com/AtYourDoor/AtYourDoorBackend>
+### Backend Repository: <https://github.com/AtYourDoor/AtYourDoorBackend>
