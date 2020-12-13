@@ -1,6 +1,6 @@
 # GOAL-DIGGERS TEAM SUBMISSION
 
-<img src="https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png" width="150" height="150">
+<img src="https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png" width="120" height="120">
 
 ## Product Name - At Your Door :zap:
 
@@ -14,7 +14,7 @@
 
 - Currently there are less products in database , So for checking Grocery List Section of App , Add Amul OR Milk as Item , So That Algorithm will work correctly.
 
-- _Currently We Have Hosted Our Backend on Heroku so the server goes into idle state , So Please Hit this link <https://at-your-door.herokuapp.com> two times , So that server will up again_
+- _Currently We Have Hosted Our Backend on Heroku so the server goes into idle state , So Please Hit this link <https://at-your-door.herokuapp.com> two times before opening app, So that server will up again_
 
 ### Apk Link : <https://bit.ly/at-your-door-app>
 
