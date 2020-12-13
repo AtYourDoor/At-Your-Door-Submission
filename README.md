@@ -14,4 +14,10 @@
 
 - Currently there are less products in database , So for checking Grocery List Section of App , Add Amul OR Milk as Item , So That Algorithm will work correctly.
 
+- _Currently We Have Hosted Our Backend on Heroku so the server goes into idle state , So Please Hit this link <https://at-your-door.herokuapp.com> two times , So that server will up again_
+
 ### Apk Link : <https://bit.ly/at-your-door-app>
+
+### APP REPOSITORY: <https://github.com/AtYourDoor/AtYourDoorUserApp>
+
+### BACKEND REPOSITORY: <https://github.com/AtYourDoor/AtYourDoorBackend>
