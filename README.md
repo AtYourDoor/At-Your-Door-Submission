@@ -1,6 +1,6 @@
 # GOAL-DIGGERS TEAM SUBMISSION
 
-![picture alt](https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png)
+<img src="https://raw.githubusercontent.com/AtYourDoor/At-Your-Door-Submission/main/grocery.png" width="200" height="200">
 
 ## Product Name - At Your Door :zap:
 
