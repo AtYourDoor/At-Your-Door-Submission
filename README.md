@@ -1,6 +1,6 @@
 # GOAL-DIGGERS TEAM SUBMISSION
 
-## Product Name - At Your Door
+## Product Name - At Your Door :zap:
 
 ## :exclamation: Important Instructions for Judges Before Checking App :exclamation:
 
